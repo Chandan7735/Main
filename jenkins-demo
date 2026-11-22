@@ -1,0 +1,17 @@
+jenkins-demo/
+│
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/example/demo/
+│   │           └── DemoApplication.java
+│   │
+│   └── test/
+│       └── java/
+│           └── com/example/demo/
+│               └── DemoApplicationTests.java
+│
+├── pom.xml
+├── Jenkinsfile
+├── .gitignore
+└── README.md
